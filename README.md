@@ -1,6 +1,6 @@
 ### Hi Everyone 👋
 
-### Full-Stak Developer|BscIT Graduate | 5.11 years of experience in application development | C#, ASP.NET MVC, Core MVC, EF, SQL Server, Full-Stack Development | Blogger| 3 MVP from CSharcorner.
+### Full-Stak Developer | BscIT Graduate | 5.11 years of experience in application development | C#, ASP.NET MVC, Core MVC, EF, SQL Server, Full-Stack Development | Blogger| 3 MVP from CSharcorner.
 
 ### Profile Summery
 *	A result-oriented professional with 5.11 years of experience in application development using Microsoft technologies.
