@@ -1,42 +1,43 @@
-### Hi Developers, This is Farhan Ahmed 👋
-### Senior Software Development Engineer at IQVIA | B.Sc. IT Graduate | 11+ Years of Experience in Enterprise Application Development | Expertise in C#, ASP.NET Core, ASP.NET MVC, Web API, Dapper, Microsoft Azure, SQL Server, React.js, JavaScript, jQuery, Bootstrap, and DevExpress | Working Remotely with Belgium-Based Global Teams | Blogger | 3x MVP Award Winner from C# Corner
+# Hi there, I'm Farhan Ahmed 👋
+
+<p align="left">
+  <strong>💼 Senior Software Development Engineer @ IQVIA</strong> &nbsp;|&nbsp; 
+  <strong>⚡ 11+ Years Experience</strong> &nbsp;|&nbsp; 
+  <strong>🏅 3x C# Corner MVP</strong>
+</p>
+
+Senior Software Development Engineer specializing in high-performance enterprise applications. Currently engineering healthcare and clinical research platforms at **IQVIA**, collaborating remotely with **Belgium-based global Agile teams**. 
+
+---
+
+### 💼 Professional Snapshot
+
+- 🌐 **Global Collaboration:** 4+ years working seamlessly with international teams on healthcare workflow management systems.
+- 🏗️ **Architecture Expert:** Deeply skilled in Repository Patterns, Unit of Work, Dependency Injection, and scalable architectures.
+- ⚡ **Performance Tuning:** Advanced optimization across complex SQL Server workloads and .NET backend layers.
+- ✍️ **Community Leader:** 3x C# Corner MVP, top-ranked tech author, and passionate technical blogger.
+
+---
+
+### 🛠️ Tools & Technologies
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | `C#` `.NET Core` `ASP.NET Core` `ASP.NET MVC` `Web API` `LINQ` |
+| **Data & Cloud** | `SQL Server` `Dapper` `Entity Framework Core` `Microsoft Azure` |
+| **Frontend** | `React.js` `JavaScript (ES6+)` `jQuery` `Bootstrap` `DevExpress` `HTML5 / CSS3` |
+| **DevOps & Tools** | `Azure DevOps` `GitHub` `CI/CD` `JIRA` `Postman` `Visual Studio` `VS Code` |
+
+---
+
+### 🏆 Recognition & Awards
+
+- 🏅 **3x Most Valuable Professional (MVP)** | C# Corner (*2018, 2019, 2020*)
+- 📈 **Top 20 Member & Author** | C# Corner (*2019*)
+- ⭐ **Top 10 Featured Member** | C# Corner (*2019*)
+- 👥 **Best Team of the Year** | Sprintzeal Pvt Ltd (*2017*)
+
+---
 
 ### Connect with me
 ### [![facebook](https://user-images.githubusercontent.com/54549934/93971143-23240280-fd8d-11ea-859d-1e69485789de.png)](https://www.facebook.com/profile.php?id=1634842162) [![Linkedin](https://user-images.githubusercontent.com/54549934/93971146-24552f80-fd8d-11ea-9afb-d114a8ed7ba2.png)](https://www.linkedin.com/in/farhan-ahmed-ba8751141/) [![Twitter](https://user-images.githubusercontent.com/54549934/93971135-20c1a880-fd8d-11ea-93ea-7b421d8f4d6a.png)](https://twitter.com/farhan10786) [![CSharpcorner](https://user-images.githubusercontent.com/54549934/93971141-21f2d580-fd8d-11ea-9c4c-ab777bae1758.png)](https://www.c-sharpcorner.com/members/farhan-ahmed24) [![HakerRank](https://user-images.githubusercontent.com/54549934/93971144-23bc9900-fd8d-11ea-9ac8-16bd132011a1.png)](https://www.hackerrank.com/farhan1086) [![TechGig](https://user-images.githubusercontent.com/54549934/93971462-d7be2400-fd8d-11ea-91b2-8abfaec3e875.png)](https://www.techgig.com/farhanahmed6)
-
-### Tools and Technology
-
-![c#-logo](https://user-images.githubusercontent.com/54549934/93968941-5fa12f80-fd88-11ea-9595-e09a3e04931c.png) ![asp-net-logo](https://user-images.githubusercontent.com/54549934/93968998-7cd5fe00-fd88-11ea-9138-c2972d4f54e6.png) ![asp-net-core-logo](https://user-images.githubusercontent.com/54549934/93969019-88292980-fd88-11ea-873e-000f1b4d36cd.png) ![icon-2017-30](https://user-images.githubusercontent.com/54549934/93969039-95deaf00-fd88-11ea-892a-cce00b080482.png) ![html logo](https://user-images.githubusercontent.com/54549934/93969064-a2630780-fd88-11ea-8ac0-ad280f1f2c95.png) ![css-logo](https://user-images.githubusercontent.com/54549934/93969089-b1e25080-fd88-11ea-8ff6-16d721c451e1.png) ![bootstrap-logo](https://user-images.githubusercontent.com/54549934/93969110-be66a900-fd88-11ea-8d93-731a49dda9cf.png) ![Visual Studio](https://user-images.githubusercontent.com/54549934/93969180-e48c4900-fd88-11ea-99f6-8f365b129132.png) ![visual-studio-code](https://user-images.githubusercontent.com/54549934/93969201-ee15b100-fd88-11ea-8a64-487094905859.png) ![Git](https://user-images.githubusercontent.com/54549934/93969224-fcfc6380-fd88-11ea-9371-dcd817f336b9.png) ![JS](https://user-images.githubusercontent.com/54549934/93969585-d7238e80-fd89-11ea-9f99-be41b751c27e.png) ![jquery](https://user-images.githubusercontent.com/54549934/93974084-ece98180-fd92-11ea-9575-e5653dbee149.png)
-
-### Profile Summery
-* Senior Software Development Engineer with 11+ years of experience in designing, developing, and maintaining enterprise web applications using Microsoft technologies. Currently working with IQVIA on healthcare and clinical research platforms.
-
-* Passionate and pragmatic software engineer with strong expertise in C#, ASP.NET MVC, ASP.NET Core, Web API, LINQ, SQL Server, and Azure technologies.
-
-* Strong knowledge of object-oriented programming, code reusability, readability, scalability, and software design principles.
-
-* Experience in .NET Framework 4.5/4.8, ASP.NET MVC architecture, .NET Core, and RESTful API development.
-
-* Hands-on experience with Dapper, Entity Framework Core, LINQ to SQL, AutoMapper, DTOs, and Postman.
-
-* Experience implementing Repository Pattern, Unit of Work, Dependency Injection, and scalable enterprise architecture practices.
-
-* Extensive experience in database design, SQL queries, joins, stored procedures, functions, indexing, views, and SQL Server performance tuning.
-
-* Expertise in frontend technologies including React.js, HTML5, CSS3, Bootstrap, JavaScript, and jQuery.
-
-* Experienced with Azure DevOps, GitHub, JIRA, Visual Studio, Visual Studio Code, DevExpress, and Agile/Scrum methodologies.
-
-* Collaborated remotely with Belgium-based global Agile teams for the past 4+ years on enterprise healthcare workflow management systems.
-
-* Effective communicator with strong analytical, problem-solving, collaboration, and interpersonal skills.
-
-### RECOGNITION AND AWARDS  
-
-*	Most Valuable Professional (MVP) from C# corner 2018, 2019 and 2020.
-*	Listed among the top 20 C# Corner members and authors of 2019.
-*	Listed among the top 10 C# Corner featured members of 2019.
-*	Best team of the year from Sprintzeal Pvt Ltd in 2017.
-
-
-
