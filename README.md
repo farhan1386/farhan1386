@@ -1,12 +1,12 @@
 # Hi there, I'm Farhan Ahmed 👋
 
 <p align="left">
-  <strong>💼 Senior Software Development Engineer @ IQVIA</strong> &nbsp;|&nbsp; 
+  <strong>💼 Lead Software Development Engineer @ IQVIA</strong> &nbsp;|&nbsp; 
   <strong>⚡ 11+ Years Experience</strong> &nbsp;|&nbsp; 
   <strong>🏅 3x C# Corner MVP</strong>
 </p>
 
-Senior Software Development Engineer specializing in high-performance enterprise applications. Currently engineering healthcare and clinical research platforms at **IQVIA**, collaborating remotely with **Belgium-based global Agile teams**. 
+Lead Software Development Engineer specializing in high-performance enterprise applications. Currently engineering healthcare and clinical research platforms at **IQVIA**, collaborating remotely with **Belgium-based global Agile teams**. 
 
 ---
 
