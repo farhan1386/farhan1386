@@ -3,7 +3,7 @@
 <p align="left">
   <strong>💼 Lead Software Development Engineer @ IQVIA</strong> &nbsp;|&nbsp; 
   <strong>⚡ 11+ Years Experience</strong> &nbsp;|&nbsp; 
-  <strong>🏅 3x C# Corner MVP</strong>
+  <strong>🏅 4x C# Corner MVP</strong>
 </p>
 
 Lead Software Development Engineer specializing in high-performance enterprise applications. Currently engineering healthcare and clinical research platforms at **IQVIA**, collaborating remotely with **Belgium-based global Agile teams**. 
@@ -32,7 +32,7 @@ Lead Software Development Engineer specializing in high-performance enterprise a
 
 ### 🏆 Recognition & Awards
 
-- 🏅 **3x Most Valuable Professional (MVP)** | C# Corner (*2018, 2019, 2020*)
+- 🏅 **4x Most Valuable Professional (MVP)** | C# Corner (*2018, 2019, 2020, 2022*)
 - 📈 **Top 20 Member & Author** | C# Corner (*2019*)
 - ⭐ **Top 10 Featured Member** | C# Corner (*2019*)
 - 👥 **Best Team of the Year** | Sprintzeal Pvt Ltd (*2017*)
